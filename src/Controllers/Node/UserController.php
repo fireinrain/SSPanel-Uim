@@ -80,7 +80,7 @@ final class UserController extends BaseController
         } else {
             $key_list = [
                 'method', 'obfs', 'obfs_param', 'protocol', 'protocol_param', 'node_speedlimit',
-                'is_multi_user', 'id', 'port', 'passwd', 'node_connector', 'alive_ip',
+                 'id', 'port', 'passwd', 'node_connector', 'alive_ip',
             ];
         }
 
